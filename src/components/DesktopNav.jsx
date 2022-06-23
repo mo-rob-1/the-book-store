@@ -3,19 +3,19 @@ function DesktopNav() {
     <nav className="desktop-nav">
       <ul>
         <li>
-          <a href="#">Home</a>
+          <a href="/">Home</a>
         </li>
         <li>
-          <a href="#">Books</a>
+          <a href="/">Books</a>
         </li>
         <li>
-          <a href="#">Magazines</a>
+          <a href="/">Magazines</a>
         </li>
         <li>
-          <a href="#">E-Books</a>
+          <a href="/">E-Books</a>
         </li>
         <li>
-          <a href="#">Account</a>
+          <a href="/">Account</a>
         </li>
       </ul>
     </nav>
