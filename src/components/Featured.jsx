@@ -23,7 +23,7 @@ function Featured() {
   };
 
   return (
-    <div className="featured">
+    <aside className="featured">
       <h2 className="featured__title">Featured</h2>
       <ul className="featured__list">
         {featuredData.slice(0, 2).map((item) => (
@@ -40,7 +40,7 @@ function Featured() {
           </li>
         ))}
       </ul>
-    </div>
+    </aside>
   );
 }
 
