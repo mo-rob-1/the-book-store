@@ -4,7 +4,7 @@ import useLocalStorage from "react-use-localstorage";
 
 function Books() {
   const [data, setData] = useState([]);
-  const [item, setItem] = useLocalStorage("name", "Initial Value");
+  const [setItem] = useLocalStorage("name", "Initial Value");
 
   useEffect(() => {
     axios
