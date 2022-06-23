@@ -17,8 +17,7 @@ function Books() {
       });
   }, []);
 
-  // toggle li element border on click and change the value of the local storage
-  const handleClick = (e) => {
+  const isSelected = (e) => {
     e.target.classList.toggle("active");
     setItem(e.target.innerText);
   };
@@ -26,11 +25,11 @@ function Books() {
   return (
     <ul className="books">
       {data.map((item) => (
-        <li key={item.etag} className="books__item" onClick={handleClick}>
+        <li key={item.etag} className="books__item" onClick={isSelected}>
           <img src={item.volumeInfo.imageLinks.thumbnail} alt={item.volumeInfo.title} className="books__item-img" />
           <div className="books__item-text-wrapper">
             <h3 className="books__item-title">{item.volumeInfo.title}</h3>
-            <p className="books__item-author">{item.volumeInfo.authors[0]}</p>
+            <p className="books__item-author">{Object.values(item.volumeInfo.authors || {}).join(", ")}</p>
             <p className="books__item-pages">
               <b>Pages:</b> {item.volumeInfo.pageCount}
             </p>
