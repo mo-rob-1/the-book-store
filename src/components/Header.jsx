@@ -13,11 +13,16 @@ function Header() {
   };
 
   const style = { color: "black", fontSize: "2rem" };
+  const titleWrapper = { textAlign: "center", marginTop: "1rem", marginBottom: "1rem" };
 
   return (
     <header>
       <div className="header__main-wrapper">
-        <h1 className="header__title">The Book Store</h1>
+        <div className="header__title-wrapper" style={titleWrapper}>
+          <a href="/" className="header__title">
+            The Book Store
+          </a>
+        </div>
 
         <div className="header__nav-wrapper">
           <button onClick={toggleMenu} className="hamburger__btn">
