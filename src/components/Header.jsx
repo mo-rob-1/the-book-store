@@ -26,7 +26,7 @@ function Header() {
 
         <div className="header__nav-wrapper">
           <button onClick={toggleMenu} className="hamburger__btn">
-            <Hamburger toggled={isOpen} toggle={setOpen} size={30} onClick={toggleMenu} />{" "}
+            <Hamburger toggled={isOpen} toggle={setOpen} size={30} onClick={toggleMenu} color="#000" />{" "}
           </button>
 
           {openMenu ? <MobileNav /> : null}
