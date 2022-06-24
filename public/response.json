@@ -1,0 +1,758 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1119,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "WfAya4HytnAC",
+      "etag": "jNLdcBtS1g8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WfAya4HytnAC",
+      "volumeInfo": {
+        "title": "Head First HTML5 Programming",
+        "subtitle": "Building Web Apps with JavaScript",
+        "authors": [
+          "Eric Freeman",
+          "Elisabeth Robson"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2011-10-06",
+        "description": "Presents information on using HTML5 to create dynamic, data-rich Web pages, covering such topics as geolocation, 2D drawing, Web storages, and Web workers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449390549"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449390544"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 573,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WfAya4HytnAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WfAya4HytnAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=WfAya4HytnAC&printsec=frontcover&dq=HTML5&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=WfAya4HytnAC&dq=HTML5&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Head_First_HTML5_Programming.html?hl=&id=WfAya4HytnAC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WfAya4HytnAC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Presents information on using HTML5 to create dynamic, data-rich Web pages, covering such topics as geolocation, 2D drawing, Web storages, and Web workers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "in9nAgAAQBAJ",
+      "etag": "G3oAbn5+ulA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/in9nAgAAQBAJ",
+      "volumeInfo": {
+        "title": "HTML5 and CSS3 All-in-One For Dummies",
+        "authors": [
+          "Andy Harris"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2014-01-07",
+        "description": "A new edition of a bestseller covers the latest advances in web development! HTML5 and CSS3 are essential tools for creating dynamic websites and boast updates and enhanced features that can make your websites even more effective and unique. This friendly, all-in-one guide covers everything you need to know about each of these technologies and their latest versions so that you can use them together. Building on the bestselling formats of the first two editions, this new edition teaches you the fundamentals of HTML5 and CSS3, and then presents ways for using them with JavaScript, MySQL, and Ajax to create websites that work. Covers using JavaScript, PHP, MySQL, and Ajax in the context of programming dynamic web pages with CSS3 and HTML5 Includes self-contained minibooks that review HTML, CSS, design and layout, client-side JavaScript, Ajax and server-side, and putting it all together Examines new web development advancements including new technologies and changes to the standards Features a website that contains supporting materials including code and several valuable programs that are useful for web development HTML5 and CSS3 All-in-One For Dummies, 3rd Edition serves as the perfect reference for both web development beginners and seasoned professionals looking to learn more about how to get the most out of the powerful combination of HTML5 and CSS3.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118289389"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118289382"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1104,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=in9nAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=in9nAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=in9nAgAAQBAJ&printsec=frontcover&dq=HTML5&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=in9nAgAAQBAJ&dq=HTML5&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HTML5_and_CSS3_All_in_One_For_Dummies.html?hl=&id=in9nAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=in9nAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With this book and the free software tools on the companion website, you have everything you need to create great-looking, interactive web pages that take advantage of technologies such as JavaScript, PHP, and AJAX."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GdDHanarLLUC",
+      "etag": "3G9nye46G00",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GdDHanarLLUC",
+      "volumeInfo": {
+        "title": "Introducing HTML5",
+        "authors": [
+          "Bruce Lawson",
+          "Remy Sharp"
+        ],
+        "publisher": "Peachpit Press",
+        "publishedDate": "2011-09",
+        "description": "Provides information on the elements on HTML, offers code examples, and describes how to build accessible markup.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780321784421"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0321784421"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 295,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GdDHanarLLUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GdDHanarLLUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=GdDHanarLLUC&printsec=frontcover&dq=HTML5&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=GdDHanarLLUC&dq=HTML5&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introducing_HTML5.html?hl=&id=GdDHanarLLUC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GdDHanarLLUC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Provides information on the elements on HTML, offers code examples, and describes how to build accessible markup."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rf9dAAAAQBAJ",
+      "etag": "yDAMDj9iY7M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rf9dAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Beginning HTML5 and CSS3 For Dummies",
+        "authors": [
+          "Ed Tittel",
+          "Chris Minnick"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2013-09-03",
+        "description": "Your full-color, friendly guide to getting started with HTML5 and CSS3! HTML and CSS are essential tools for creating dynamic websites and help make your websites even more effective and unique. This friendly-but-straightforward guide gets you started with the basics of the latest versions of HTML and CSS: HTML5 and CSS3. Introducing you to the syntax and structure of the languages, this helpful guide shows you how to create and view a web page, explains ideal usage of HTML5 and CSS3, walks you through the CSS3 rules and style sheets, addresses common mistakes and explains how to fix them, and explores interesting HTML5 tools. Serves as an ideal introduction to HTML5 and CSS3 for beginners with little to no web development experience Details the capabilities of HTML5 and CSS3 and how to use both to create responsive, practical, and well-designed websites Helps you understand how HTML5 and CSS3 are the foundation upon which hundreds of millions of web pages are built Features full-color illustrations to enhance your learning process Beginning HTML5 and CSS3 For Dummies is the perfect first step for getting started with the fundamentals of web development and design.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118657201"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118657209"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rf9dAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rf9dAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=rf9dAAAAQBAJ&printsec=frontcover&dq=HTML5&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=rf9dAAAAQBAJ&dq=HTML5&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beginning_HTML5_and_CSS3_For_Dummies.html?hl=&id=rf9dAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rf9dAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book makes it easy. Does creating web pages seem daunting? Relax! HTML5, the latest version of HTML, makes it even easier for anyone to learn how to create or edit web pages."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "d3p4ngEACAAJ",
+      "etag": "ta/qilebQFA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d3p4ngEACAAJ",
+      "volumeInfo": {
+        "title": "HTML5",
+        "subtitle": "The Missing Manual",
+        "authors": [
+          "Matthew MacDonald"
+        ],
+        "publisher": "Oreilly & Associates Incorporated",
+        "publishedDate": "2014-01-03",
+        "description": "A guide to HTML5 covers such topics as markup, Web forms, audio and video, Canvas, CSS3, data storage, offline applications, and JavaScript.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1449363261"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449363260"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 498,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=d3p4ngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=d3p4ngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=d3p4ngEACAAJ&dq=HTML5&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=d3p4ngEACAAJ&dq=HTML5&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HTML5.html?hl=&id=d3p4ngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d3p4ngEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A guide to HTML5 covers such topics as markup, Web forms, audio and video, Canvas, CSS3, data storage, offline applications, and JavaScript."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C9IhvgAACAAJ",
+      "etag": "C8X6B0WGFiw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C9IhvgAACAAJ",
+      "volumeInfo": {
+        "title": "HTML5 in Easy Steps",
+        "authors": [
+          "Mike McGrath"
+        ],
+        "publishedDate": "2017-02-17",
+        "description": "HTML5 in easy steps, 2nd edition instructs you how to employ the latest development for web page design with HyperText Markup Language (HTML5). Modern web browsers have united to support exciting new features of the HTML5 standard that allows easy creation of stunning web pages and engaging interactive applications. Contains examples and screenshots that illustrate each feature of HTML5, describing how to incorporate meta information about a document within its 'head' section and how to add structured 'body' content. You'll learn how to create web pages to display text, images, lists, tables, hyperlinks, forms, audio, and video - and also how to write script instructions that draw and animate graphics on embedded 'canvas' areas.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1840787546"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781840787542"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+          "COMPUTERS"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C9IhvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C9IhvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=C9IhvgAACAAJ&dq=HTML5&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=C9IhvgAACAAJ&dq=HTML5&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HTML5_in_Easy_Steps.html?hl=&id=C9IhvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C9IhvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "HTML5 in easy steps, 2nd edition instructs you how to employ the latest development for web page design with HyperText Markup Language (HTML5)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Kp4QAwAAQBAJ",
+      "etag": "XiVhliuJt8k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Kp4QAwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Truth About HTML5",
+        "authors": [
+          "RJ Owen",
+          "Luke Stevens"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2014-02-28",
+        "description": "The Truth About HTML5 is for web designers, web developers, and front-end coders who want to get up to speed with HTML5. The book isn't afraid to point out what everyone gets wrong about HTML5's new markup, so you don’t make the same mistakes. It will show you what rocks in HTML5 today and what the future holds. Marking up a basic web page shouldn't be a quasi-religious exercise where the high priests of HTML5 must be consulted for their interpretation of the holy texts (the HTML5 spec). Don’t waste hours trawling through confusing, poorly researched, and often flat-out wrong information on the Internet. Get the truth on HTML5's markup here. You'll also find out about HTML5's new microdata standard that's being used on major websites, such as eBay and IMDB, right now, and get the low-down on the Canvas object and what it can and can't do for you. The book also covers how HTML5 affects CMSs and web apps, what HTML5 means for mobile, and what the future holds. HTML5 isn't one big blob of technology that will be \"finished\" at some point in the future. It’s a grab bag of cool stuff, much of which has been around for years. Learn what’s well supported and ready to go today. Now that the initial wave of hype is over, it's time to learn the truth about HTML5.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781430264163"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1430264160"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Kp4QAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Kp4QAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=Kp4QAwAAQBAJ&printsec=frontcover&dq=HTML5&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=Kp4QAwAAQBAJ&dq=HTML5&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Truth_About_HTML5.html?hl=&id=Kp4QAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Truth_About_HTML5-sample-epub.acsm?id=Kp4QAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uk/books/download/The_Truth_About_HTML5-sample-pdf.acsm?id=Kp4QAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Kp4QAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book isn&#39;t afraid to point out what everyone gets wrong about HTML5&#39;s new markup, so you don’t make the same mistakes. It will show you what rocks in HTML5 today and what the future holds."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6jee_deQYYMC",
+      "etag": "DwwbomWLcuU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6jee_deQYYMC",
+      "volumeInfo": {
+        "title": "HTML5 Cookbook",
+        "authors": [
+          "Christopher Schmitt",
+          "Kyle Simpson"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2011-11-14",
+        "description": "\"Solutions & examples for HTML5 developers\"--Cover.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449396794"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449396798"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6jee_deQYYMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6jee_deQYYMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=6jee_deQYYMC&printsec=frontcover&dq=HTML5&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=6jee_deQYYMC&dq=HTML5&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HTML5_Cookbook.html?hl=&id=6jee_deQYYMC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6jee_deQYYMC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;November 2011: First edition; revision history for the first edition: 2011-11-04, First release&quot;--Colophon."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uLVrCgAAQBAJ",
+      "etag": "KvclvuPYFCE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uLVrCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Responsive Web Design with HTML5 and CSS3",
+        "authors": [
+          "Ben Frain"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2015-08-24",
+        "description": "Learn the HTML5 and CSS3 you need to help you design responsive and future-proof websites that meet the demands of modern web users About This Book Learn and explore how to harness the latest features of HTML5 in the context of responsive web design Learn to wield the new Flexbox layout mechanism, code responsive images, and understand how to implement SVGs in a responsive project Make your pages interactive by using CSS animations, transformations, and transitions Who This Book Is For Are you writing two websites – one for mobile and one for larger displays? Or perhaps you've already implemented your first 'RWD' but are struggling bring it all together? If so, Responsive Web Design with HTML5 and CSS3, Second Edition gives you everything you need to take your web sites to the next level. You'll need some HTML and CSS knowledge to follow along, but everything you need to know about Responsive Design and making great websites is included in the book! What You Will Learn Understand what responsive design is, and why it's vital for modern web development HTML5 markup is cleaner, faster, and more semantically rich than anything that has come before - learn how to use it and its latest features Integrate CSS3 media queries into your designs to use different styles for different media. You'll also learn about future media queries which are evolving in CSS4. Responsive images allow different images to be presented in different scenarios. We'll cover how to load different sets of images depending upon screen size or resolution and how to display different images in different contexts. Conquer forms! Add validation and useful interface elements like date pickers and range sliders with HTML5 markup alone. Implement SVGs into your responsive designs to provide resolution independent images, and learn how to adapt and animate them Learn how to use the latest features of CSS including custom fonts, nth-child selectors (and some CSS4 selectors), CSS custom properties (variables), and CSS calc In Detail Desktop-only websites just aren't good enough anymore. With mobile internet usage still rising, and tablets changing internet consumption habits, you need to know how to build websites that will just 'work', regardless of the devices used to access them. This second edition of Responsive Web Design with HTML5 and CSS3 explains all the key approaches necessary to create and maintain a modern responsive design. The changing way in which we access the web means that there has never been a greater range of screen sizes and associated user experiences to consider. With these recent trends driving changes in design, typical desktop-only websites fail to meet even minimum expectations when it comes to style and usability, which can be vital when your website is central to yours or your client's brand. Responsive Web Design with HTML5 and CSS3, Second Edition is an updated and improved guide that responds to the latest challenges and trends in web design, giving you access to the most effective approaches to modern responsive design. Learn how to build websites with a “responsive and mobile first” methodology, allowing a website to display effortlessly on every device that accesses it. Packed with examples, and a thorough explanation of modern techniques and syntax, Responsive Web Design with HTML5 and CSS3, Second Edition provides a comprehensive resource for all things 'responsive'. This updated new edition covers all the most up-to-date techniques and tools needed to build great responsive designs, ensuring that your projects won't just be built 'right' for today, but in the future too. Chapter example code is all hosted on rwd.education, a dedicated site for the book, built by the author, using the approaches and techniques championed throughout. Style and approach This book should be useful in two ways: as a 'read from the beginning and learn as you go' resource but also as a reference you can come back to in the months to come – when trying to remember this or that syntax or look up a link that may help you out of a development hell-hole. To this end, rather than follow a single design through from chapter one and build on it incrementally until the end of the book, each chapter exists in relative isolation. This means that code and examples are particular to each chapter and don't need to be considered along with what has gone before or after. That doesn't mean that each chapter's techniques won't work in unison; the reference site for this book, rwd.education is an example of them all working in harmony. However, by limiting the chapter examples to the topic at hand, it should be simpler for you to understand and reference the essence of each example and topic in the future.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781784398262"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1784398268"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uLVrCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uLVrCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=uLVrCgAAQBAJ&printsec=frontcover&dq=HTML5&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uLVrCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uLVrCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 20.99,
+          "currencyCode": "GBP"
+        },
+        "retailPrice": {
+          "amount": 13.64,
+          "currencyCode": "GBP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=uLVrCgAAQBAJ&rdid=book-uLVrCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 20990000,
+              "currencyCode": "GBP"
+            },
+            "retailPrice": {
+              "amountInMicros": 13640000,
+              "currencyCode": "GBP"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uLVrCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Learn the HTML5 and CSS3 you need to help you design responsive and future-proof websites that meet the demands of modern web users About This Book Learn and explore how to harness the latest features of HTML5 in the context of responsive ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2b4dAAAAQBAJ",
+      "etag": "DOYDisQLppc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2b4dAAAAQBAJ",
+      "volumeInfo": {
+        "title": "HTML5 Pocket Reference",
+        "subtitle": "Quick, Comprehensive, Indispensable",
+        "authors": [
+          "Jennifer Robbins"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2013-07-19",
+        "description": "Annotation Need help finding the right HTML5 element or attribute for your web page or application? HTML5 Pocket Reference is the classic reference that web designers and developers have been keeping close at hand for more than thirteen years. This fifth edition has been updated to reflect the current state of HTML5, including the HTML5 Candidate Recommendation, the emerging HTML5.1 Working Draft, and the living WHATWG standard. Features include:An alphabetical listing of every element and attribute in HTML5, HTML5.1, and the WHATWG living standardDescriptions, markup examples, content categories, content models, and start- and end-tag requirements for every elementAt-a-glance notes indicating the differences between the HTML5 specifications and HTML 4.01Useful charts of special charactersAn overview of HTML5 APIsIf youre an experienced web designer or developer who needs a quick resource for working with established web standards, this handy book is indispensable.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449368807"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449368808"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2b4dAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2b4dAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=2b4dAAAAQBAJ&printsec=frontcover&dq=HTML5&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.uk/books?id=2b4dAAAAQBAJ&dq=HTML5&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HTML5_Pocket_Reference.html?hl=&id=2b4dAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2b4dAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This fifth edition has been updated to reflect the current state of HTML5, including the HTML5 Candidate Recommendation, the emerging HTML5.1 Working Draft, and the living WHATWG standard."
+      }
+    }
+  ]
+}
