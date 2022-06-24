@@ -143,6 +143,9 @@ b {
 .active {
   border: #222 solid 8px;
 }
+.loading {
+  margin-top: 2rem;
+}
 /* Books Styling End */
 
 /* Mobile Social Media Icons Styling Start */
