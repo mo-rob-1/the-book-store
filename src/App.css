@@ -144,7 +144,7 @@ b {
   border: none !important;
 }
 .active {
-  border: #222 solid 8px;
+  border: #008000 solid 8px;
 }
 .loading {
   margin-top: 2rem;
