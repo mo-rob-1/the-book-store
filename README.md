@@ -17,6 +17,7 @@ For this task, I used ReactJS to create a simple listing page for HTML5 books us
 - Git & GitHub
 - Visual Studio Code (IDE)
 - Netlify
+- Tested on: Chrome, Firefox, Safari, Edge.
 
 ### Overview
 
