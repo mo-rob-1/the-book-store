@@ -32,7 +32,7 @@ function Books() {
   return (
     <div>
       <ul className="books">
-        {data.map((item) => (
+        {data.slice(0, 8).map((item) => (
           <li key={item.etag} className="books__item" onClick={isSelected}>
             <img src={item.volumeInfo.imageLinks.thumbnail} alt={item.volumeInfo.title} className="books__item-img" />
             <div className="books__item-text-wrapper">
