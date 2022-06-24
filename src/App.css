@@ -77,7 +77,7 @@ body {
 .featured__list-item {
   background-color: #fff;
   padding: 3rem 1.2rem;
-  border: 1px solid #000;
+  border: 5px solid #000;
   cursor: pointer;
 }
 .featured__list-item h3 {
@@ -124,7 +124,7 @@ b {
   grid-template-rows: 1fr;
   gap: 30px;
   align-items: center;
-  border: 1px solid #000;
+  border: 5px solid #000;
   padding: 1rem;
   cursor: pointer;
 }
@@ -145,7 +145,7 @@ b {
   border: none !important;
 }
 .active {
-  border: #008000 solid 8px;
+  border: #ff0000 solid 5px;
 }
 .loading {
   margin-top: 2rem;
