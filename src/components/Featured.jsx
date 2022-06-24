@@ -8,7 +8,7 @@ function Featured() {
 
   useEffect(() => {
     axios
-      .get("https://www.googleapis.com/books/v1/volumes?q=HTML5")
+      .get("response.json")
       .then((res) => {
         setFeaturedData(res.data.items.reverse());
       })
