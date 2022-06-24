@@ -1,10 +1,11 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
-import useLocalStorage from "react-use-localstorage";
+// import useLocalStorage from "react-use-localstorage";
 
 function Books() {
   const [data, setData] = useState([]);
-  const [item, setItem] = useLocalStorage("name", "Initial Value");
+  // const [item, setItem] = useLocalStorage("name", "Initial Value");
+  const [setItem] = useState("");
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
@@ -23,7 +24,7 @@ function Books() {
   const isSelected = (e) => {
     e.target.classList.toggle("active");
     setItem(e.target.innerText);
-    localStorage.setItem("active", item);
+    // localStorage.setItem("active", item);
   };
 
   if (isLoading) {

@@ -1,10 +1,11 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
-import useLocalStorage from "react-use-localstorage";
+// import useLocalStorage from "react-use-localstorage";
 
 function Featured() {
   const [featuredData, setFeaturedData] = useState([]);
-  const [item, setItem] = useLocalStorage("name", "Initial Value");
+  // const [item, setItem] = useLocalStorage("name", "Initial Value");
+  const [setItem] = useState("");
 
   useEffect(() => {
     axios
@@ -21,7 +22,7 @@ function Featured() {
   const isSelected = (e) => {
     e.target.classList.toggle("active");
     setItem(e.target.innerText);
-    localStorage.setItem("active", item);
+    // localStorage.setItem("active", item);
   };
 
   return (
