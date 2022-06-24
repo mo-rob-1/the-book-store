@@ -26,7 +26,7 @@ Users can:
 - See a list of every HTML5 books from the Google Books API.
 - See the book cover, title, authors, number of pages and description for each book.
 - See two featured books.
-- Select a book which will display a border.
+- Select a book by clicking on the border.
 - View the page on various screen sizes (Mobile-first, fully responsive)
 
 ### Link
