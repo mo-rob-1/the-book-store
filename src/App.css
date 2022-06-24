@@ -118,7 +118,7 @@ b {
   display: inherit;
   grid-template-columns: 1fr 2fr;
   grid-template-rows: 1fr;
-  gap: 12px;
+  gap: 30px;
   align-items: center;
   border: 1px solid #000;
   padding: 1rem;
