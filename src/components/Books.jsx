@@ -1,17 +1,15 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
-// import useLocalStorage from "react-use-localstorage";
+import useLocalStorage from "react-use-localstorage";
 
 function Books() {
   const [data, setData] = useState([]);
-  // const [item, setItem] = useLocalStorage("name", "Initial Value");
-  const [setItem] = useState("");
+  const [item, setItem] = useLocalStorage("name", "Initial Value");
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     axios
-      // .get("response.json")
-      .get("https://www.googleapis.com/books/v1/volumes?q=HTML5")
+      .get("response.json")
       .then((res) => {
         setData(res.data.items);
         setIsLoading(false);
@@ -24,7 +22,7 @@ function Books() {
   const isSelected = (e) => {
     e.target.classList.toggle("active");
     setItem(e.target.innerText);
-    // localStorage.setItem("active", item);
+    localStorage.setItem("active", item);
   };
 
   if (isLoading) {
@@ -39,7 +37,7 @@ function Books() {
             <img src={item.volumeInfo.imageLinks.thumbnail} alt={item.volumeInfo.title} className="books__item-img" />
             <div className="books__item-text-wrapper">
               <h3 className="books__item-title">{item.volumeInfo.title}</h3>
-              <p className="books__item-author">{Object.values(item.volumeInfo.authors || {}).join(", ")}</p>
+              {/* <p className="books__item-author">{Object.values(item.volumeInfo.authors || {}).join(", ")}</p> */}
               <p className="books__item-pages">
                 <b>Pages:</b> {item.volumeInfo.pageCount}
               </p>
