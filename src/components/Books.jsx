@@ -37,7 +37,7 @@ function Books() {
             <img src={item.volumeInfo.imageLinks.thumbnail} alt={item.volumeInfo.title} className="books__item-img" />
             <div className="books__item-text-wrapper">
               <h3 className="books__item-title">{item.volumeInfo.title}</h3>
-              {/* <p className="books__item-author">{Object.values(item.volumeInfo.authors || {}).join(", ")}</p> */}
+              <p className="books__item-author">{Object.values(item.volumeInfo.authors || {}).join(", ")}</p>
               <p className="books__item-pages">
                 <b>Pages:</b> {item.volumeInfo.pageCount}
               </p>

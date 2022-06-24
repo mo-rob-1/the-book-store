@@ -33,7 +33,7 @@ function Featured() {
               <img src={item.volumeInfo.imageLinks.thumbnail} alt={item.volumeInfo.title} />
             </div>
             <h3>{item.volumeInfo.title}</h3>
-            {/* <p className="author-name">{Object.values(item.volumeInfo.authors || {}).join(", ")}</p> */}
+            <p className="author-name">{Object.values(item.volumeInfo.authors || {}).join(", ")}</p>
             <p className="number-of-pages">
               <b>Pages:</b> {item.volumeInfo.pageCount}
             </p>
