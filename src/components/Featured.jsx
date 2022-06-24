@@ -5,14 +5,12 @@ import axios from "axios";
 function Featured() {
   const [featuredData, setFeaturedData] = useState([]);
   const [setItem] = useLocalStorage("name", "Initial Value");
-  const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     axios
       .get("https://www.googleapis.com/books/v1/volumes?q=HTML5")
       .then((res) => {
         setFeaturedData(res.data.items.reverse());
-        setIsLoading(false);
       })
       .catch((err) => {
         console.log(err);
@@ -23,10 +21,6 @@ function Featured() {
     e.target.classList.toggle("active");
     setItem(e.target.innerText);
   };
-
-  if (isLoading) {
-    return <h2>Loading...</h2>;
-  }
 
   return (
     <aside className="featured">
