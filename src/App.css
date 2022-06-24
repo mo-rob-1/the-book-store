@@ -246,5 +246,8 @@ b {
   .desktop-nav a {
     padding: 1rem 3rem;
   }
+  .books__item {
+    padding: 2rem 2.5rem;
+  }
 }
 /* Media Query End */
