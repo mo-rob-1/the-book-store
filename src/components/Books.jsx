@@ -4,7 +4,6 @@ import useLocalStorage from "react-use-localstorage";
 
 function Books() {
   const [data, setData] = useState([]);
-  // const [item, setItem] = useState(localStorage.getItem("active") === "true");
   const [item, setItem] = useLocalStorage("name", "Initial Value");
   const [isLoading, setIsLoading] = useState(true);
 
@@ -20,15 +19,9 @@ function Books() {
       });
   }, []);
 
-  // useEffect(() => {
-  //   localStorage.setItem("active", item);
-  // }, [item]);
-
   const isSelected = (e) => {
     e.target.classList.toggle("active");
     setItem(e.target.innerText);
-    // localStorage.getItem("active", item);
-    // setItem(!item);
     localStorage.setItem("active", item);
   };
 

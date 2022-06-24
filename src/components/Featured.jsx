@@ -4,7 +4,6 @@ import useLocalStorage from "react-use-localstorage";
 
 function Featured() {
   const [featuredData, setFeaturedData] = useState([]);
-  // const [item, setItem] = useState(localStorage.getItem("active") === "true");
   const [item, setItem] = useLocalStorage("name", "Initial Value");
 
   useEffect(() => {
@@ -18,15 +17,9 @@ function Featured() {
       });
   }, []);
 
-  // useEffect(() => {
-  //   localStorage.setItem("active", item);
-  // }, [item]);
-
   const isSelected = (e) => {
     e.target.classList.toggle("active");
     setItem(e.target.innerText);
-    // localStorage.getItem("active", item);
-    // setItem(!item);
     localStorage.setItem("active", item);
   };
 
