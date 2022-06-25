@@ -33,6 +33,11 @@ function Featured() {
               <img src={item.volumeInfo.imageLinks.thumbnail} alt={item.volumeInfo.title} />
             </div>
             <h3>{item.volumeInfo.title}</h3>
+            {item.volumeInfo.subtitle ? (
+              <h5 className="books__item-subtitle">{item.volumeInfo.subtitle}</h5>
+            ) : (
+              <h5 className="books__item-subtitle">No Subtitle</h5>
+            )}
             <p className="author-name">{Object.values(item.volumeInfo.authors || {}).join(", ")}</p>
             <p className="number-of-pages">
               <b>Pages:</b> {item.volumeInfo.pageCount}
