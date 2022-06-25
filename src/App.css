@@ -101,6 +101,10 @@ b {
   border: none !important;
   box-shadow: none !important;
 }
+.featured__item-subtitle {
+  border: none !important;
+  box-shadow: none !important;
+}
 .number-of-pages {
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -144,6 +148,7 @@ b {
   border: none !important;
 }
 .books__item-title,
+.books__item-subtitle,
 .books__item-img,
 .books__item-author,
 .books__item-pages,
