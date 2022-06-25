@@ -18,9 +18,9 @@ function Featured() {
   }, []);
 
   const isSelected = (e) => {
-    e.target.classList.toggle("active");
+    e.target.classList.toggle("is-selected");
     setItem(e.target.innerText);
-    localStorage.setItem("active", item);
+    localStorage.setItem("is-selected", item);
   };
 
   return (

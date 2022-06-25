@@ -144,7 +144,7 @@ b {
 .books__item-text-wrapper {
   border: none !important;
 }
-.active {
+.is-selected {
   border: #ff0000 solid 5px;
 }
 .loading {
