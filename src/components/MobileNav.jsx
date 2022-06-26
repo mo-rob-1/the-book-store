@@ -2,7 +2,7 @@ import React from "react";
 
 function MobileNav() {
   return (
-    <nav className="mobile-nav">
+    <nav className="mobile-nav" data-testid="navigation">
       <ul>
         <li>
           <a href="/">Home</a>

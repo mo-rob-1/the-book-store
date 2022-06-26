@@ -1,6 +1,6 @@
 function DesktopNav() {
   return (
-    <nav className="desktop-nav">
+    <nav className="desktop-nav" data-testid="navigation">
       <ul>
         <li>
           <a href="/">Home</a>

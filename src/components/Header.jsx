@@ -25,27 +25,27 @@ function Header() {
         </div>
 
         <div className="header__nav-wrapper">
-          <button onClick={toggleMenu} className="hamburger__btn">
+          <button onClick={toggleMenu} className="hamburger__btn" data-testid="toggle-btn">
             <Hamburger toggled={isOpen} toggle={setOpen} size={30} onClick={toggleMenu} color="#000" />{" "}
           </button>
 
           {openMenu ? <MobileNav /> : null}
         </div>
 
-        <div>
+        <div data-testid="social-media-links">
           <ul className="header-socials__list">
-            <li className="header-socials--margin">
+            <li className="header-socials--margin" data-testid="twitter-link">
               <a href="https://twitter.com/">
                 <FaTwitter style={style} />
               </a>
             </li>
-            <li className="header-socials--margin">
+            <li className="header-socials--margin" data-testid="facebook-link">
               <a href="https://www.facebook.com/">
                 <FaFacebookSquare style={style} />
               </a>
             </li>
             <li>
-              <a href="https://www.instagram.com/">
+              <a href="https://www.instagram.com/" data-testid="instagram-link">
                 <FaInstagram style={style} />
               </a>
             </li>
