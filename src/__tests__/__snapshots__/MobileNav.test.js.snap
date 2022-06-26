@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MobileNav renders the mobile nav component 1`] = `
+<div>
+  <nav
+    class="mobile-nav"
+    data-testid="navigation"
+  >
+    <ul>
+      <li>
+        <a
+          href="/"
+        >
+          Home
+        </a>
+      </li>
+      <li>
+        <a
+          href="/"
+        >
+          Books
+        </a>
+      </li>
+      <li>
+        <a
+          href="/"
+        >
+          Magazines
+        </a>
+      </li>
+      <li>
+        <a
+          href="/"
+        >
+          E-Books
+        </a>
+      </li>
+      <li>
+        <a
+          href="/"
+        >
+          Account
+        </a>
+      </li>
+    </ul>
+  </nav>
+</div>
+`;
